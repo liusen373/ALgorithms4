@@ -35,7 +35,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Merge">
+    <configuration name="Insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_1.Insertion" />
+      <module name="ALgorithms4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liusen.algorithms.chapter2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_2.Merge" />
+      <module name="ALgorithms4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liusen.algorithms.chapter2_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Selection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_1.Selection" />
       <module name="ALgorithms4" />
@@ -49,9 +75,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Shell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_1.Shell" />
+      <module name="ALgorithms4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liusen.algorithms.chapter2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_1.SortCompare" />
+      <module name="ALgorithms4" />
+      <option name="PROGRAM_PARAMETERS" value="Selection Insertion 1000 100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liusen.algorithms.chapter2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Selection" />
+      <item itemvalue="Application.Insertion" />
+      <item itemvalue="Application.Shell" />
+      <item itemvalue="Application.SortCompare" />
+      <item itemvalue="Application.Merge" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Merge" />
+        <item itemvalue="Application.Shell" />
+        <item itemvalue="Application.SortCompare" />
         <item itemvalue="Application.Selection" />
+        <item itemvalue="Application.Insertion" />
       </list>
     </recent_temporary>
   </component>
