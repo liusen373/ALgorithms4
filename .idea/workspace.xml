@@ -35,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DepthFirstPaths">
+  <component name="RunManager" selected="Application.Quick3way">
     <configuration name="DepthFirstPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter4_1.DepthFirstPaths" />
       <module name="ALgorithms4" />
@@ -76,12 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_2.Ex6" />
+    <configuration name="Quick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_3.Quick" />
       <module name="ALgorithms4" />
+      <option name="PROGRAM_PARAMETERS" value="100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liusen.algorithms.chapter2_2.*" />
+          <option name="PATTERN" value="com.liusen.algorithms.chapter2_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_2.Ex9" />
+    <configuration name="Quick3way" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_3.Quick3way" />
       <module name="ALgorithms4" />
+      <option name="PROGRAM_PARAMETERS" value="100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liusen.algorithms.chapter2_2.*" />
+          <option name="PATTERN" value="com.liusen.algorithms.chapter2_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,19 +105,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ex6" />
-      <item itemvalue="Application.Ex9" />
       <item itemvalue="Application.Ex10" />
       <item itemvalue="Application.Ex11" />
       <item itemvalue="Application.DepthFirstPaths" />
+      <item itemvalue="Application.Quick" />
+      <item itemvalue="Application.Quick3way" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Quick3way" />
+        <item itemvalue="Application.Quick" />
         <item itemvalue="Application.DepthFirstPaths" />
         <item itemvalue="Application.Ex11" />
         <item itemvalue="Application.Ex10" />
-        <item itemvalue="Application.Ex6" />
-        <item itemvalue="Application.Ex9" />
       </list>
     </recent_temporary>
   </component>
