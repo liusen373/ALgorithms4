@@ -35,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LazyPrimMST">
+  <component name="RunManager" selected="Application.PrimMST">
     <configuration name="DepthFirstPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter4_1.DepthFirstPaths" />
       <module name="ALgorithms4" />
@@ -59,10 +59,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxPQTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_4.MaxPQTest" />
+    <configuration name="PrimMST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter4_3.PrimMST" />
       <module name="ALgorithms4" />
-      <option name="PROGRAM_PARAMETERS" value="10" />
+      <option name="PROGRAM_PARAMETERS" value=" $PROJECT_DIR$/data/tinyEWG.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,18 +77,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.MaxPQ" />
-      <item itemvalue="Application.MaxPQTest" />
       <item itemvalue="Application.DepthFirstPaths" />
       <item itemvalue="Application.LazyPrimMST" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.PrimMST" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimMST" />
         <item itemvalue="Application.LazyPrimMST" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.DepthFirstPaths" />
         <item itemvalue="Application.MaxPQ" />
-        <item itemvalue="Application.MaxPQTest" />
       </list>
     </recent_temporary>
   </component>
