@@ -35,10 +35,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrimMST">
+  <component name="RunManager" selected="Application.KruskalMST">
     <configuration name="DepthFirstPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter4_1.DepthFirstPaths" />
       <module name="ALgorithms4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KruskalMST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter4_3.KruskalMST" />
+      <module name="ALgorithms4" />
+      <option name="PROGRAM_PARAMETERS" value=" $PROJECT_DIR$/data/tinyEWG.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -47,14 +55,6 @@
       <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter4_3.LazyPrimMST" />
       <module name="ALgorithms4" />
       <option name="PROGRAM_PARAMETERS" value=" $PROJECT_DIR$/data/tinyEWG.txt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxPQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_4.MaxPQ" />
-      <module name="ALgorithms4" />
-      <option name="PROGRAM_PARAMETERS" value="10" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,19 +76,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MaxPQ" />
       <item itemvalue="Application.DepthFirstPaths" />
       <item itemvalue="Application.LazyPrimMST" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.PrimMST" />
+      <item itemvalue="Application.KruskalMST" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KruskalMST" />
         <item itemvalue="Application.PrimMST" />
         <item itemvalue="Application.LazyPrimMST" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.DepthFirstPaths" />
-        <item itemvalue="Application.MaxPQ" />
       </list>
     </recent_temporary>
   </component>
