@@ -35,21 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex17">
-    <configuration name="DepthFirstPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter4_1.DepthFirstPaths" />
-      <module name="ALgorithms4" />
-      <option name="PROGRAM_PARAMETERS" value=" data/tinyCG.txt 0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liusen.algorithms.chapter4_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MaxPQ">
     <configuration name="Ex17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_3.Ex17" />
       <module name="ALgorithms4" />
@@ -78,16 +64,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_3.Quick" />
+    <configuration name="MaxPQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_4.MaxPQ" />
       <module name="ALgorithms4" />
-      <option name="PROGRAM_PARAMETERS" value="100" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liusen.algorithms.chapter2_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PROGRAM_PARAMETERS" value="10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxPQTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter2_4.MaxPQTest" />
+      <module name="ALgorithms4" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,19 +95,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DepthFirstPaths" />
-      <item itemvalue="Application.Quick" />
       <item itemvalue="Application.Quick3way" />
       <item itemvalue="Application.Ex5" />
       <item itemvalue="Application.Ex17" />
+      <item itemvalue="Application.MaxPQ" />
+      <item itemvalue="Application.MaxPQTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxPQ" />
+        <item itemvalue="Application.MaxPQTest" />
         <item itemvalue="Application.Ex17" />
         <item itemvalue="Application.Ex5" />
         <item itemvalue="Application.Quick3way" />
-        <item itemvalue="Application.Quick" />
-        <item itemvalue="Application.DepthFirstPaths" />
       </list>
     </recent_temporary>
   </component>
