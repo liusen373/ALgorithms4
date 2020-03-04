@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab62fbc8-90de-4b69-8b5a-37ebe76894cb" name="Default Changelist" comment="" />
+    <list default="true" id="ab62fbc8-90de-4b69-8b5a-37ebe76894cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liusen/algorithms/chapter3_1/BinarySearchST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liusen/algorithms/chapter3_1/SequentialSearchST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,13 +20,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TPeffrNTUcq0wQPIG7IvHPt1Ba" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/algs4.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,10 +44,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KruskalMST">
+  <component name="RunManager" selected="Application.FrequencyCounter">
     <configuration name="DepthFirstPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter4_1.DepthFirstPaths" />
       <module name="ALgorithms4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrequencyCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter3_1.FrequencyCounter" />
+      <module name="ALgorithms4" />
+      <option name="PROGRAM_PARAMETERS" value="3 &lt; ../data/tinyTale.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -67,29 +84,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liusen.algorithms.chapter4_3.Test" />
-      <module name="ALgorithms4" />
-      <option name="PROGRAM_PARAMETERS" value=" $PROJECT_DIR$/data/tinyEWG.txt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.DepthFirstPaths" />
       <item itemvalue="Application.LazyPrimMST" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.PrimMST" />
       <item itemvalue="Application.KruskalMST" />
+      <item itemvalue="Application.FrequencyCounter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrequencyCounter" />
         <item itemvalue="Application.KruskalMST" />
         <item itemvalue="Application.PrimMST" />
         <item itemvalue="Application.LazyPrimMST" />
-        <item itemvalue="Application.Test" />
         <item itemvalue="Application.DepthFirstPaths" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
